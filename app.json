@@ -1,0 +1,10 @@
+{
+  "name": "PedMobileNative",
+  "displayName": "PedMobileNative",
+  "expo": {
+    "name": "PedMobileNative",
+    "slug": "PedMobileNative",
+    "sdkVersion": "33.0.0",
+    "privacy": "public"
+  }
+}
